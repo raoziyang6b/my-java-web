@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+	<default-config>
+		<property name="user">z_shopstore</property>
+		<property name="password">z_shopstore</property>
+		<property name="driverClass">com.mysql.jdbc.Driver</property>
+		<property name="jdbcUrl">jdbc:mysql://cdb-83oczlep.gz.tencentcdb.com:10107/z_shopstore</property>
+	</default-config> 
+</c3p0-config> 
